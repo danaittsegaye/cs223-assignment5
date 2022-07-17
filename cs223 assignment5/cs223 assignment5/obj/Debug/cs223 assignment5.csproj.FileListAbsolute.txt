@@ -1,0 +1,11 @@
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223 assignment5.csproj.AssemblyReference.cache
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223 assignment5.csproj.SuggestedBindingRedirects.cache
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223_assignment5.Form1.resources
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223_assignment5.Properties.Resources.resources
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223 assignment5.csproj.GenerateResource.cache
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223 assignment5.csproj.CoreCompileInputs.cache
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\bin\Debug\cs223 assignment5.exe.config
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\bin\Debug\cs223 assignment5.exe
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\bin\Debug\cs223 assignment5.pdb
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223 assignment5.exe
+C:\Users\primaryuser\Documents\GitHub\cs223-assignment5\cs223 assignment5\cs223 assignment5\obj\Debug\cs223 assignment5.pdb
